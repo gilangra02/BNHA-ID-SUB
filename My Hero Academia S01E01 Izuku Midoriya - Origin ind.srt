@@ -1,0 +1,1486 @@
+﻿1
+00:00:08,049 --> 00:00:09,300 
+Kau jahat, Kattchan.
+
+2
+00:00:10,051 --> 00:00:11,302 
+Lihat, dia menangis.
+
+3
+00:00:12,053 --> 00:00:13,388 
+Jika kau tak berhenti,
+
+4
+00:00:13,638 --> 00:00:14,723 
+aku…
+
+5
+00:00:15,181 --> 00:00:16,725 
+aku tak akan memaafkanmu!
+
+6
+00:00:19,269 --> 00:00:21,187 
+Bocah tanpa Bakat
+
+7
+00:00:23,023 --> 00:00:24,399 
+berlagak menjadi Pahlawan,
+
+8
+00:00:25,191 --> 00:00:26,484 
+ya, Deku?
+
+9
+00:00:39,873 --> 00:00:42,959 
+<i>Tidak semua pria diciptakan sama.</i>
+
+10
+00:00:47,380 --> 00:00:51,259 
+<i>Ini realita kehidupan yang kupelajari</i>
+<i>saat umurku empat tahun.</i>
+
+11
+00:00:53,720 --> 00:00:54,721 
+<i>Dan itu adalah...</i>
+
+12
+00:00:55,930 --> 00:00:57,891 
+rintangan pertama dan terakhirku.
+
+13
+00:01:12,781 --> 00:01:15,700
+{\an8}IZUKU MIDORIYA
+
+14
+00:01:16,868 --> 00:01:18,369
+{\an8}STASIUN TATOUIN
+
+15
+00:01:20,914 --> 00:01:22,499 
+Itu penjahat raksasa!
+
+16
+00:01:26,002 --> 00:01:31,132
+{\an8}<i>Pukul lima pagi nafasku terhenti</i>
+<i>Bak tenggelam dalam keheningan</i>
+
+17
+00:01:31,216 --> 00:01:35,053
+{\an8}<i>Berdiri di tangga darurat menggigit kuku</i>
+<i>Yang manakah hari esok?</i>
+
+18
+00:01:46,564 --> 00:01:49,192 
+MY HERO ACADEMIA
+
+19
+00:01:49,275 --> 00:01:54,197
+{\an8}<i>Malam yang tak berujung</i>
+<i>Hujan tiada henti</i>
+
+20
+00:01:54,280 --> 00:01:58,493
+{\an8}<i>Keduanya di dunia yang busuk ini</i>
+
+21
+00:01:59,494 --> 00:02:04,415
+{\an8}<i>Tidak aneh</i>
+<i>Kau tersandung karena setengah tertidur</i>
+
+22
+00:02:04,749 --> 00:02:08,545
+{\an8}<i>Aku tidak menyalahkanmu</i>
+
+23
+00:02:09,879 --> 00:02:14,092
+{\an8}<i>Bermain sendiri di dunia khayalmu</i>
+
+24
+00:02:14,926 --> 00:02:17,720
+{\an8}<i>Akankah kau</i>
+
+25
+00:02:17,846 --> 00:02:21,808
+{\an8}<i>malu dengan khayalanmu itu?</i>
+
+26
+00:02:25,478 --> 00:02:27,939
+{\an8}<i>Itu labirin yang berliku</i>
+
+27
+00:02:28,064 --> 00:02:30,441
+{\an8}<i>Kau masih akan pergi?</i>
+
+28
+00:02:30,525 --> 00:02:35,530
+{\an8}<i>Suara lonceng petualang kecil</i>
+<i>Menandai awal yang baru</i>
+
+29
+00:02:35,613 --> 00:02:38,241
+{\an8}<i>Tak tahu harus ke mana</i>
+
+30
+00:02:38,366 --> 00:02:40,743
+{\an8}<i>Kau yakin tidak takut?</i>
+
+31
+00:02:40,827 --> 00:02:45,331
+{\an8}<i>Setiap langkah akan mengubahmu</i>
+
+32
+00:02:56,551 --> 00:02:59,220 
+<i>Semua bermula di kota Qingqing, Cina.</i>
+
+33
+00:03:00,680 --> 00:03:03,308 
+<i>Bayi dengan pancaran cahaya terlahir.</i>
+
+34
+00:03:03,558 --> 00:03:05,602
+{\an8}AYAH
+
+35
+00:03:06,394 --> 00:03:09,230 
+<i>Semenjak itu, banyak bakat ditemukan.</i>
+
+36
+00:03:09,647 --> 00:03:12,150 
+<i>Dan waktu berlalu tanpa tahu alasannya.</i>
+
+37
+00:03:13,735 --> 00:03:16,654 
+<i>Sampai akhirnya,</i>
+<i>paranormal menjadi hal yang biasa</i>
+
+38
+00:03:17,071 --> 00:03:18,740 
+<i>dan mimpi menjadi kenyataan.</i>
+
+39
+00:03:20,366 --> 00:03:22,702 
+<i>Sekarang dengan 80 persen</i>
+<i>populasi dunia</i>
+
+40
+00:03:22,785 --> 00:03:26,372 
+<i>yang memiliki bakat khusus</i>
+<i>adalah masyarakat manusia super.</i>
+
+41
+00:03:27,916 --> 00:03:29,459 
+<i>Di dunia yang penuh kekacauan ini,</i>
+
+42
+00:03:29,876 --> 00:03:34,756 
+<i>pekerjaan yang dulu hanyalah mimpi belaka,</i>
+<i>sekarang menjadi nyata</i>
+
+43
+00:03:40,261 --> 00:03:41,471 
+Pekerjaan itu...
+
+44
+00:03:50,897 --> 00:03:51,773 
+Lengan Maut!
+
+45
+00:03:52,232 --> 00:03:56,027 
+Pahlawan Tinju yang menggunakan
+kekuatannya untuk kedamaian!
+
+46
+00:04:01,199 --> 00:04:03,243 
+Hei, ini berbahaya
+
+47
+00:04:03,618 --> 00:04:04,577 
+tetap menjauh.
+
+48
+00:04:04,869 --> 00:04:08,748 
+Backdraft si spesialis penyelamat
+telah datang!
+
+49
+00:04:11,251 --> 00:04:14,128 
+Kemampuan yang hebat,
+kau berubah menjadi monster.
+
+50
+00:04:14,587 --> 00:04:16,965 
+- Apa yang dia perbuat?
+- Menjambret dompet.
+
+51
+00:04:17,090 --> 00:04:19,092 
+Dia hampir tertangkap lalu hilang kendali.
+
+52
+00:04:19,217 --> 00:04:21,511 
+Bakat seperti itu dan pencuri, ya?
+
+53
+00:04:21,844 --> 00:04:23,721 
+Maaf, keretanya...
+
+54
+00:04:24,138 --> 00:04:27,475 
+aku tidak tahu kapan aku akan tiba.
+
+55
+00:04:28,851 --> 00:04:30,812 
+Berjuanglah, Kamui!
+
+56
+00:04:36,442 --> 00:04:38,444 
+Jangan mendekat!
+
+57
+00:04:40,989 --> 00:04:41,990 
+Siapa yang bertarung?
+
+58
+00:04:46,411 --> 00:04:47,829 
+Itu Kamui Woods!
+
+59
+00:04:52,083 --> 00:04:54,585 
+Bintang muda yang sedang naik daun!
+
+60
+00:04:55,044 --> 00:04:57,505 
+Kau bertanya tapi tahu segalanya.
+
+61
+00:04:57,630 --> 00:04:58,840 
+Kau penggemar berat!
+
+62
+00:04:59,382 --> 00:05:00,591 
+Bukan.
+
+63
+00:05:16,774 --> 00:05:19,152 
+Menggunakan kekuatan saat jam sibuk
+
+64
+00:05:19,235 --> 00:05:20,987 
+dan perampokan dengan kekerasan.
+
+65
+00:05:21,321 --> 00:05:23,281 
+Kau <i>avatar </i>jahat.
+
+66
+00:05:26,993 --> 00:05:27,869 
+Ini dia!
+
+67
+00:05:27,994 --> 00:05:30,079 
+Tunjukkan kekuatanmu, Manusia Kayu!
+
+68
+00:05:30,997 --> 00:05:31,956 
+Serang.
+
+69
+00:05:32,790 --> 00:05:33,916 
+Jurus...
+
+70
+00:05:34,292 --> 00:05:35,335 
+Penjara Rantai Kayu!
+
+71
+00:05:36,502 --> 00:05:37,712 
+Meriam Lembah!
+
+72
+00:05:51,851 --> 00:05:53,644 
+Dia di sini, dia di sini...
+
+73
+00:05:54,562 --> 00:05:56,856 
+Hari ini adalah debut pertamaku.
+
+74
+00:05:57,523 --> 00:05:59,650 
+Namaku adalah Mount Lady.
+
+75
+00:06:00,193 --> 00:06:02,653 
+Senang membantu bokongmu.
+
+76
+00:06:02,987 --> 00:06:06,574 
+Dia di sini.
+
+77
+00:06:08,159 --> 00:06:09,243 
+Pujiannya...
+
+78
+00:06:10,661 --> 00:06:12,163 
+<i>Dengan banyaknya kekuatan</i>
+
+79
+00:06:12,330 --> 00:06:14,624 
+<i>juga bertambah jumlah kejahatan.</i>
+
+80
+00:06:15,708 --> 00:06:18,711 
+<i>Sementara negara menunggu</i>
+<i>untuk reformasi hukum yang baru</i>
+
+81
+00:06:18,836 --> 00:06:22,965 
+<i>orang-orang pemberani menjadi Pahlawan,</i>
+<i>seperti di komik.</i>
+
+82
+00:06:24,342 --> 00:06:27,595 
+<i>Mengawal kekuatan</i>
+<i>dan melindungi dari kejahatan.</i>
+
+83
+00:06:28,096 --> 00:06:30,014 
+<i>Para Pahlawan akan memiliki</i>
+<i>kewarganegaraan</i>
+
+84
+00:06:30,098 --> 00:06:33,351 
+<i>dan kepatriotan mereka</i>
+<i>menjadi pekerjaan resmi.</i>
+
+85
+00:06:34,352 --> 00:06:37,605 
+<i>Mereka diberi penghargaan</i>
+<i>sesuai dengan prestasi mereka.</i>
+
+86
+00:06:37,814 --> 00:06:40,858 
+<i>Upah dari pemerintah</i>
+<i>dan ketenaran dari masyarakat.</i>
+
+87
+00:06:44,487 --> 00:06:45,655 
+Gigantisme, ya?
+
+88
+00:06:45,822 --> 00:06:48,324 
+Dia populer dan mempunyai Bakat
+yang hebat.
+
+89
+00:06:48,408 --> 00:06:53,037 
+Tapi dilihat dari kerusakan kota,
+tindakannya akan dibatasi.
+
+90
+00:06:53,413 --> 00:06:55,665 
+Tapi jika dia bisa mengendalikannya...
+
+91
+00:06:55,748 --> 00:06:58,292 
+Kau sedang mencatat
+untuk menjadi Pahlawan?
+
+92
+00:06:58,418 --> 00:06:59,752 
+Lakukan yang terbaik!
+
+93
+00:07:02,338 --> 00:07:04,173 
+Ya, tentu!
+
+94
+00:07:04,882 --> 00:07:08,803 
+EPISODE 1: IZUKU MIDORIYA: ASAL
+
+95
+00:07:08,886 --> 00:07:11,681 
+SMP ARUDERA
+
+96
+00:07:11,931 --> 00:07:14,016 
+Kalian sudah kelas sembilan,
+
+97
+00:07:14,100 --> 00:07:16,936 
+jadi saatnya serius
+dengan masa depan kalian.
+
+98
+00:07:17,270 --> 00:07:20,022 
+Aku akan membagikan formulir
+untuk rencana masa depan kalian,
+
+99
+00:07:21,149 --> 00:07:22,233 
+tapi semuanya...
+
+100
+00:07:25,820 --> 00:07:28,072 
+melanjutkan ke sekolah Pahlawan, 'kan?
+
+101
+00:07:28,531 --> 00:07:29,824 
+Ya!
+
+102
+00:07:31,242 --> 00:07:32,577 
+Bakat yang hebat!
+
+103
+00:07:33,161 --> 00:07:36,164 
+Penggunaan Bakat di sekolah
+tidak diperbolehkan, oke?
+
+104
+00:07:36,372 --> 00:07:37,540 
+Pak Guru,
+
+105
+00:07:37,874 --> 00:07:40,293 
+jangan menempatkan kami semua
+di kategori yang sama.
+
+106
+00:07:40,793 --> 00:07:45,465 
+aku tak berencana disamakan
+dengan para pecundang ini.
+
+107
+00:07:45,548 --> 00:07:48,092 
+KATSUKI BAKUGOU
+
+108
+00:07:48,176 --> 00:07:50,344 
+- Apa katamu, Katsuki?
+- Ya!
+
+109
+00:07:51,012 --> 00:07:52,680 
+Kalian semua diam!
+
+110
+00:07:53,806 --> 00:07:57,351 
+Oh, iya, Bakugou akan melanjutkan
+ke SMA UA, ya?
+
+111
+00:07:58,060 --> 00:07:59,437 
+Sekolah nasional?
+
+112
+00:07:59,520 --> 00:08:01,564 
+Peringkatnya harus 79!
+
+113
+00:08:01,647 --> 00:08:03,191 
+Seleksinya gila!
+
+114
+00:08:03,274 --> 00:08:05,860 
+Itu mengapa kalian pecundang.
+
+115
+00:08:08,029 --> 00:08:09,489 
+Aku lulus ujiannya!
+
+116
+00:08:09,780 --> 00:08:12,241 
+Hanya aku yang diterima di UA.
+
+117
+00:08:13,117 --> 00:08:15,536 
+Aku bahkan akan melampaui All Might
+
+118
+00:08:15,703 --> 00:08:17,788 
+dan menjadi Pahlawan top.
+
+119
+00:08:18,039 --> 00:08:22,001 
+Namaku akan masuk dalam jajaran
+Pahlawan dengan bayaran tertinggi!
+
+120
+00:08:22,502 --> 00:08:25,046 
+Midoriya juga melanjutkan ke UA, 'kan?
+
+121
+00:08:31,177 --> 00:08:33,012 
+Apa, Midoriya? Tidak mungkin!
+
+122
+00:08:33,095 --> 00:08:35,932 
+Kau tidak bisa lanjut ke sekolah Pahlawan
+hanya dengan belajar.
+
+123
+00:08:36,015 --> 00:08:39,268 
+Peraturan itu tidak berlaku sekarang.
+Belum ada yang mencoba...
+
+124
+00:08:42,688 --> 00:08:44,148 
+Hei, Deku!
+
+125
+00:08:44,398 --> 00:08:48,152 
+Kau bukan hanya pecundang,
+tetapi juga tak punya Bakat.
+
+126
+00:08:48,486 --> 00:08:51,322 
+Bagaimana kau bisa setara denganku?
+
+127
+00:08:51,447 --> 00:08:53,908 
+Tidak, tunggu, Kattchan.
+
+128
+00:08:53,991 --> 00:08:56,661 
+Aku tak bermaksud bersaing denganmu.
+
+129
+00:08:57,078 --> 00:08:58,079 
+Sungguh!
+
+130
+00:08:59,163 --> 00:09:02,667 
+Hanya saja. Itu impianku sejak kecil.
+
+131
+00:09:02,917 --> 00:09:04,293 
+Dan aku harus...
+
+132
+00:09:04,752 --> 00:09:06,754 
+setidaknya mencoba, ya, 'kan?
+
+133
+00:09:07,088 --> 00:09:09,715 
+Apa maksudmu, "setidaknya mencoba?"
+
+134
+00:09:09,799 --> 00:09:11,425 
+Kau sedang mempermainkanku?
+
+135
+00:09:12,051 --> 00:09:14,512 
+Apa yang bisa kau lakukan?
+
+136
+00:09:14,595 --> 00:09:16,264 
+Kau tak punya Bakat!
+
+137
+00:09:19,767 --> 00:09:20,768 
+RUMAH SUSUN IMAI
+
+138
+00:09:20,893 --> 00:09:23,980 
+PUKUL DUA SIANG KOTA YANG SAMA
+
+139
+00:09:25,273 --> 00:09:27,942 
+Dia pencuri! Seseorang tolong!
+
+140
+00:09:28,776 --> 00:09:31,320 
+Tangkap aku kalau bisa!
+
+141
+00:09:33,864 --> 00:09:35,533 
+Hei, mana Pahlawannya?
+
+142
+00:09:35,992 --> 00:09:40,705 
+- Biasanya, mereka langsung datang.
+- Dia memanfaatkan kesibukan di pagi hari.
+
+143
+00:09:41,372 --> 00:09:44,125 
+Banyak orang tak tahu dengan bakatnya.
+
+144
+00:09:45,167 --> 00:09:46,794 
+Tiada akhir.
+
+145
+00:09:47,962 --> 00:09:49,130 
+Ya, ada.
+
+146
+00:09:53,009 --> 00:09:54,051 
+Di mana katamu?
+
+147
+00:09:59,015 --> 00:10:00,224 
+Aku sudah di sini!
+
+148
+00:10:04,604 --> 00:10:06,814 
+- Ayo kita pergi karaoke.
+- Ya, tentu.
+
+149
+00:10:07,898 --> 00:10:10,651 
+Kejadian pagi ini ada di halaman utama.
+
+150
+00:10:11,152 --> 00:10:13,529 
+Aku harus mencatatnya di buka catatanku.
+
+151
+00:10:17,658 --> 00:10:20,286 
+Kita belum selesai, Deku.
+
+152
+00:10:20,745 --> 00:10:22,330 
+Katsuki, apa itu?
+
+153
+00:10:23,831 --> 00:10:27,501 
+Analisis Pahlawan untuk masa depan?
+
+154
+00:10:27,585 --> 00:10:29,170 
+Kau serius?
+
+155
+00:10:29,837 --> 00:10:31,255 
+Midoriya.
+
+156
+00:10:31,339 --> 00:10:33,174 
+Ayo, kembalikan.
+
+157
+00:10:36,886 --> 00:10:38,137 
+Kau kejam.
+
+158
+00:10:41,432 --> 00:10:43,559 
+Kebanyakan Pahlawan hebat mempunyai
+cerita
+
+159
+00:10:43,684 --> 00:10:45,978 
+yang berasal dari masa sekolah mereka.
+
+160
+00:10:46,979 --> 00:10:50,107 
+Aku ingin jadi yang pertama masuk
+
+161
+00:10:50,316 --> 00:10:54,445 
+ke SMA UA dari sekolah
+yang membosankan ini.
+
+162
+00:10:54,987 --> 00:10:57,198 
+Aku seorang perfeksionis.
+
+163
+00:10:58,240 --> 00:10:59,408 
+Dasar picik.
+
+164
+00:11:00,701 --> 00:11:02,870 
+Hanya untuk jaga-jaga,
+
+165
+00:11:04,372 --> 00:11:06,749 
+jangan mendaftar ke UA, ya?
+
+166
+00:11:13,673 --> 00:11:15,716 
+Paling tidak katakan sesuatu.
+
+167
+00:11:15,925 --> 00:11:17,301 
+Jangan bilang begitu.
+
+168
+00:11:17,385 --> 00:11:18,511 
+Kasihan,
+
+169
+00:11:18,594 --> 00:11:20,846 
+dia belum menerima kenyataan.
+
+170
+00:11:23,099 --> 00:11:27,103 
+Jika kau ngotot ingin menjadi Pahlawan,
+ada cara yang efisien.
+
+171
+00:11:27,687 --> 00:11:32,483 
+Lompat dari atap sekolah dan percayalah
+kau punya Bakat di kehidupan selanjutnya.
+
+172
+00:11:37,947 --> 00:11:38,823 
+Apa?
+
+173
+00:11:46,997 --> 00:11:48,082 
+<i>Si bodoh itu.</i>
+
+174
+00:11:48,916 --> 00:11:51,460 
+<i>Jika aku melompat,</i>
+<i>itu sama saja bunuh diri.</i>
+
+175
+00:11:51,585 --> 00:11:53,087 
+<i>Pikir sebelum kau bicara.</i>
+
+176
+00:11:53,921 --> 00:11:55,464 
+ANALISIS PAHLAWAN UNTUK MASA DEPAN
+
+177
+00:11:55,548 --> 00:11:56,632 
+<i>Itu bukan pelet.</i>
+
+178
+00:11:56,924 --> 00:11:57,758 
+<i>Bodoh.</i>
+
+179
+00:11:58,926 --> 00:12:00,094 
+<i>Ini buku catatanku.</i>
+
+180
+00:12:01,846 --> 00:12:02,972 
+<i>Bodoh.</i>
+
+181
+00:12:05,015 --> 00:12:06,600 
+ANALISIS PAHLAWAN UNTUK MASA DEPAN
+
+182
+00:12:06,684 --> 00:12:07,893 
+<i>Dasar bodoh.</i>
+
+183
+00:12:10,438 --> 00:12:11,814 
+<i>Ibu!</i>
+
+184
+00:12:14,442 --> 00:12:16,402 
+Ibu, komputer!
+
+185
+00:12:16,902 --> 00:12:17,987 
+Lagi?
+
+186
+00:12:19,113 --> 00:12:20,531 
+Cepatlah!
+
+187
+00:12:20,614 --> 00:12:21,449 
+ALL MIGHT
+
+188
+00:12:21,949 --> 00:12:25,828 
+<i>Izuku, kamu sendiri saja bisa menonton ini</i>
+<i>sampai 10,000 kali.</i>
+
+189
+00:12:26,537 --> 00:12:28,456 
+Ibu takut untuk menonton.
+
+190
+00:12:30,207 --> 00:12:32,168 
+<i>Itu video lama.</i>
+
+191
+00:12:33,252 --> 00:12:34,920 
+<i>Video debut seorang Pahlawan</i>
+
+192
+00:12:35,629 --> 00:12:39,216 
+<i>yang direkam sesaat setelah</i>
+<i>bencana besar melanda.</i>
+
+193
+00:12:41,010 --> 00:12:42,052 
+<i>Kau lihat?</i>
+
+194
+00:12:42,136 --> 00:12:44,263 
+<i>Dia sudah menyelamatkan 100 orang.</i>
+
+195
+00:12:44,346 --> 00:12:47,099 
+<i>Bahkan belum 10 menit.</i>
+
+196
+00:12:47,183 --> 00:12:49,059 
+<i>Ini gila!</i>
+
+197
+00:12:58,194 --> 00:12:59,570 
+<i>Lihat, dia tertawa.</i>
+
+198
+00:13:06,660 --> 00:13:07,661 
+<i>Tidak apa-apa.</i>
+
+199
+00:13:08,537 --> 00:13:09,455 
+<i>Kenapa, katamu?</i>
+
+200
+00:13:14,251 --> 00:13:15,669 
+<i>Karena aku sudah datang!</i>
+
+201
+00:13:23,093 --> 00:13:24,887 
+Dia luar biasa!
+
+202
+00:13:25,429 --> 00:13:28,724 
+Aku ingin seperti dia
+bila nanti mendapatkan bakat!
+
+203
+00:13:35,105 --> 00:13:36,524 
+Urungkan niatmu.
+
+204
+00:13:40,402 --> 00:13:41,445 
+Tidak mungkin...
+
+205
+00:13:41,737 --> 00:13:43,781 
+Apa yang salah dengannya?
+
+206
+00:13:44,198 --> 00:13:46,867 
+Kebanyakan murid TK
+sudah menunjukkan tanda.
+
+207
+00:13:46,951 --> 00:13:47,993 
+Hanya dia yang...
+
+208
+00:13:48,953 --> 00:13:52,206 
+Maaf, kau generasi keempat, bukan?
+
+209
+00:13:52,498 --> 00:13:53,749 
+Apa bakatmu?
+
+210
+00:13:54,041 --> 00:13:55,501 
+Ya, tentu saja.
+
+211
+00:13:55,876 --> 00:13:58,629 
+Aku bisa mengangkat benda kecil
+
+212
+00:13:58,921 --> 00:14:01,006 
+dan suamiku bisa menyemburkan api.
+
+213
+00:14:01,382 --> 00:14:04,260 
+Pada usia empat tahun, anak ini...
+
+214
+00:14:04,510 --> 00:14:08,264 
+seharusnya menunjukkan bakat salah satu
+atau gabungan keduanya.
+
+215
+00:14:09,098 --> 00:14:13,727 
+Zaman dulu, hasil penelitiannya
+mengumumkan
+
+216
+00:14:14,186 --> 00:14:18,274 
+bahwa jari kelingking
+entah mempunyai sendi atau tidak.
+
+217
+00:14:18,899 --> 00:14:22,278 
+Jika bagian tubuh tidak digunakan,
+itu dianggap tak perlu.
+
+218
+00:14:22,486 --> 00:14:26,031 
+Orang yang tak memiliki sendi
+disebut evolusi yang baru.
+
+219
+00:14:27,116 --> 00:14:29,493 
+Seperti yang kau lihat di rontgen ini,
+
+220
+00:14:29,618 --> 00:14:32,496 
+Izuku punya dua sendi.
+
+221
+00:14:34,081 --> 00:14:38,627 
+Itu langka dalam generasinya,
+dia tipe yang tak mempunyai Bakat.
+
+222
+00:14:46,468 --> 00:14:49,388 
+<i>Kau lihat itu?</i>
+<i>Dia sudah menyelamatkan 100 orang.</i>
+
+223
+00:14:50,014 --> 00:14:52,725 
+<i>Bahkan belum 10 menit.</i>
+
+224
+00:14:52,808 --> 00:14:53,893 
+<i>Itu gila.</i>
+
+225
+00:14:55,185 --> 00:14:56,604 
+<i>Lihat, dia tertawa.</i>
+
+226
+00:14:57,771 --> 00:14:58,981 
+<i>Sudah tidak apa-apa.</i>
+
+227
+00:14:59,189 --> 00:15:01,942 
+<i>Kenapa? Karena aku sudah di sini!</i>
+
+228
+00:15:04,361 --> 00:15:05,529 
+<i>Bu,</i>
+
+229
+00:15:07,615 --> 00:15:11,285 
+<i>dia membantu semua orang dengan senyuman.</i>
+
+230
+00:15:14,079 --> 00:15:16,415 
+<i>Dia Pahlawan yang hebat.</i>
+
+231
+00:15:25,507 --> 00:15:28,677 
+Bisakah aku menjadi seperti dia?
+
+232
+00:15:34,934 --> 00:15:36,268 
+Maafkan ibu, Izuku!
+
+233
+00:15:37,019 --> 00:15:38,646 
+Ibu sungguh minta maaf...
+
+234
+00:15:43,484 --> 00:15:44,652 
+<i>Bukan begitu.</i>
+
+235
+00:15:44,902 --> 00:15:46,111 
+<i>Bukan itu, Bu.</i>
+
+236
+00:15:47,738 --> 00:15:48,864 
+<i>Di saat itu</i>
+
+237
+00:15:49,198 --> 00:15:50,824 
+<i>aku ingin kau mengatakan...</i>
+
+238
+00:15:53,619 --> 00:15:56,956 
+PERHATIKAN KEPALA ANDA
+
+239
+00:15:58,582 --> 00:16:00,084 
+Aku berjanji di hari itu.
+
+240
+00:16:01,210 --> 00:16:03,963 
+Benar, jangan pedulikan kata orang.
+
+241
+00:16:04,713 --> 00:16:06,423 
+Angkat kepala dan terus maju.
+
+242
+00:16:21,730 --> 00:16:22,648 
+Penjahat!
+
+243
+00:16:24,650 --> 00:16:27,319 
+Ini jubah tak terlihat ukuran menengah.
+
+244
+00:16:34,535 --> 00:16:35,744 
+Tidak apa-apa.
+
+245
+00:16:35,995 --> 00:16:38,038 
+Aku hanya mengambil alih tubuhmu.
+
+246
+00:16:38,163 --> 00:16:39,331 
+Tenanglah.
+
+247
+00:16:39,456 --> 00:16:42,334 
+Sakitnya hanya selama 45 detik.
+
+248
+00:16:42,459 --> 00:16:44,461 
+Kau akan merasa lega.
+
+249
+00:16:45,879 --> 00:16:47,965 
+Aku tak bisa bernapas…
+
+250
+00:16:48,674 --> 00:16:52,344 
+Bagaimana caramu menarikku?
+Aku ini cairan.
+
+251
+00:16:52,970 --> 00:16:56,515 
+Terima kasih atas segalanya,
+kau adalah pahlawanku.
+
+252
+00:16:57,307 --> 00:17:01,937 
+Aku tak menyangka akan sampai ke kota ini.
+
+253
+00:17:03,605 --> 00:17:06,483 
+<i>Tubuhku... mati rasa...</i>
+
+254
+00:17:07,776 --> 00:17:09,945 
+<i>Aku akan mati.</i>
+
+255
+00:17:10,904 --> 00:17:12,156 
+<i>Apa aku akan mati?</i>
+
+256
+00:17:15,576 --> 00:17:16,660 
+<i>Aku sekarat…</i>
+
+257
+00:17:17,536 --> 00:17:18,704 
+<i>Seseorang…</i>
+
+258
+00:17:20,122 --> 00:17:21,165 
+<i>Seseorang…</i>
+
+259
+00:17:22,332 --> 00:17:23,417 
+<i>Tidak!</i>
+
+260
+00:17:28,964 --> 00:17:31,341 
+Semuanya akan baik-baik saja, Anak Muda.
+
+261
+00:17:37,848 --> 00:17:39,516 
+Aku di sini!
+
+262
+00:17:49,610 --> 00:17:53,906 
+<i>Texas Smash!</i>
+
+263
+00:18:01,538 --> 00:18:03,165 
+Tekanan angin!
+
+264
+00:18:20,766 --> 00:18:21,975 
+<i>All Might...</i>
+
+265
+00:18:32,653 --> 00:18:34,321 
+Syukurlah.
+
+266
+00:18:38,242 --> 00:18:39,993 
+Aku lega kau baik-baik saja.
+
+267
+00:18:40,452 --> 00:18:42,079 
+Aku minta maaf,
+
+268
+00:18:42,371 --> 00:18:44,706 
+pertarungan tadi melibatkanmu.
+
+269
+00:18:45,165 --> 00:18:47,876 
+Biasanya aku tak membuat kesalahan
+seperti ini,
+
+270
+00:18:47,960 --> 00:18:50,337 
+tapi aku sedang tak bertugas
+dan berada di area baru.
+
+271
+00:18:50,420 --> 00:18:51,839 
+Aku terlalu bersemangat.
+
+272
+00:18:55,300 --> 00:18:58,220 
+Tapi, ini berkat bantuanmu, terima kasih.
+
+273
+00:18:59,012 --> 00:19:00,722 
+Aku menangkapnya dengan aman.
+
+274
+00:19:03,892 --> 00:19:07,229 
+<i>Pahlawan nomor satu, All Might...</i>
+
+275
+00:19:07,354 --> 00:19:09,606 
+<i>Itu sungguh dia.</i>
+
+276
+00:19:09,731 --> 00:19:11,024 
+<i>Tak seperti aslinya</i>
+
+277
+00:19:11,775 --> 00:19:13,944 
+<i>saat kau melihatnya secara langsung!</i>
+
+278
+00:19:16,113 --> 00:19:17,656 
+Oh, tanda tangan...
+
+279
+00:19:17,781 --> 00:19:19,533 
+Tanda tangan...
+
+280
+00:19:19,825 --> 00:19:20,909 
+Di buku catatanku!
+
+281
+00:19:22,202 --> 00:19:23,620 
+Sudah ada.
+
+282
+00:19:24,955 --> 00:19:26,623 
+Terima kasih!
+
+283
+00:19:26,748 --> 00:19:29,543 
+Aku akan menyimpannya
+sebagai harta selamanya.
+
+284
+00:19:29,626 --> 00:19:30,544 
+Baik!
+
+285
+00:19:31,211 --> 00:19:34,298 
+Aku akan mengantarkan ini ke polisi.
+
+286
+00:19:35,048 --> 00:19:36,967 
+Kita bertemu lagi di layar TV.
+
+287
+00:19:38,719 --> 00:19:40,512 
+Apa? Sudah?
+
+288
+00:19:40,637 --> 00:19:43,932 
+Pro selalu bertarung melawan musuh
+dan waktu.
+
+289
+00:19:45,475 --> 00:19:49,521 
+<i>Tapi masih ada yang harus aku tanya.</i>
+
+290
+00:19:51,565 --> 00:19:53,567 
+Tolong dukung aku,
+
+291
+00:19:54,735 --> 00:19:58,739 
+aku mengandalkanmu.
+
+292
+00:20:04,995 --> 00:20:07,331 
+Lepaskan! Kau terlalu berlebihan!
+
+293
+00:20:07,581 --> 00:20:11,168 
+Jika kulepaskan, aku akan mati!
+
+294
+00:20:12,002 --> 00:20:12,878 
+Kau benar.
+
+295
+00:20:13,212 --> 00:20:15,380 
+Aku punya...
+
+296
+00:20:15,505 --> 00:20:18,050 
+Banyak hal...
+
+297
+00:20:18,133 --> 00:20:19,635 
+yang ingin kutanyakan...
+
+298
+00:20:20,219 --> 00:20:21,428 
+Baiklah.
+
+299
+00:20:21,678 --> 00:20:23,639 
+Sekarang, tutup mulut dan matamu.
+
+300
+00:20:36,276 --> 00:20:37,527 
+Sial...
+
+301
+00:20:44,326 --> 00:20:46,245 
+STASIUN CABANG IKOU
+
+302
+00:20:50,123 --> 00:20:51,833 
+Itu sangat mengerikan.
+
+303
+00:20:52,584 --> 00:20:53,710 
+Ya ampun,
+
+304
+00:20:54,294 --> 00:20:56,838 
+minta orang-orang di bawah
+untuk menolongmu.
+
+305
+00:20:57,130 --> 00:20:59,132 
+Aku tak ada waktu.
+
+306
+00:20:59,258 --> 00:21:00,592 
+Jadi sampai sini saja.
+
+307
+00:21:01,093 --> 00:21:02,594 
+Hei, tunggu.
+
+308
+00:21:02,886 --> 00:21:04,304 
+Tidak mau.
+
+309
+00:21:05,013 --> 00:21:07,474 
+- Tapi...
+<i>-</i> <i>Urungkan niatmu.</i>
+
+310
+00:21:10,769 --> 00:21:14,815 
+<i>Maafkan aku Izuku, maafkan aku...</i>
+
+311
+00:21:15,232 --> 00:21:17,609 
+<i>Memangnya kau bisa apa?</i>
+
+312
+00:21:17,776 --> 00:21:19,695 
+Kau tidak punya Bakat!
+
+313
+00:21:25,575 --> 00:21:28,287 
+<i>Mungkin itu benar</i>
+
+314
+00:21:31,039 --> 00:21:33,417 
+tapi tetap saja
+
+315
+00:21:34,960 --> 00:21:35,961 
+aku...
+
+316
+00:21:43,802 --> 00:21:46,263 
+Bisakah aku menjadi Pahlawan
+meskipun tak punya Bakat?
+
+317
+00:21:49,850 --> 00:21:51,685 
+Bisakah seseorang tanpa Bakat
+
+318
+00:21:52,853 --> 00:21:54,896 
+menjadi Pahlawan sepertimu?
+
+319
+00:22:07,075 --> 00:22:08,493 
+<i>Bertemu dengan All Might</i>
+
+320
+00:22:09,077 --> 00:22:10,203 
+<i>adalah keajaiban.</i>
+
+321
+00:22:11,121 --> 00:22:13,957 
+<i>Saat ini, aku masih tak tahu</i>
+
+322
+00:22:15,417 --> 00:22:19,671 
+<i>seberapa besar itu akan mengubah takdirku.</i>
+
+323
+00:22:23,675 --> 00:22:28,764
+{\an8}<i>Di dunia yang mengelilingiku</i>
+<i>Dan sisi kelamku</i>
+
+324
+00:22:28,889 --> 00:22:33,435
+{\an8}<i>Meski kubayangkan, kuraih,</i>
+<i>Tetap terasa jauh</i>
+
+325
+00:22:38,940 --> 00:22:42,402
+{\an8}<i>Saat terasa mendekat</i>
+
+326
+00:22:42,527 --> 00:22:47,491
+{\an8}<i>Aku terbangun dari mimpi</i>
+<i>dan tetap terasa jauh</i>
+
+327
+00:22:48,492 --> 00:22:54,498
+{\an8}<i>Kota dipenuhi pertanda fajar</i>
+
+328
+00:22:54,581 --> 00:22:56,917
+{\an8}<i>Menyembunyikan suara</i>
+
+329
+00:22:57,584 --> 00:22:59,961
+{\an8}<i>Dalam keraguan, aku mencari</i>
+
+330
+00:23:00,045 --> 00:23:06,802
+{\an8}<i>Makna keberadaanku</i>
+
+331
+00:23:07,344 --> 00:23:12,641
+{\an8}<i>Di dunia yang mengelilingiku</i>
+Dan masa kelamku
+
+332
+00:23:12,766 --> 00:23:16,853
+{\an8}<i>Meski kubayangkan, kuraih,</i>
+<i>Tetap terasa jauh</i>
+
+333
+00:23:16,978 --> 00:23:22,359
+{\an8}<i>Apa yang harus aku singkirkan</i>
+<i>Untuk menggapainya?</i>
+
+334
+00:23:22,484 --> 00:23:27,114
+{\an8}<i>Tak peduli berapa kali</i>
+<i>aku berteriak kencang</i>
+
+335
+00:23:27,197 --> 00:23:31,368
+{\an8}<i>Pada akhirnya, aku hanya diriku sendiri</i>
+
+336
+00:23:31,493 --> 00:23:36,873
+{\an8}<i>Tak peduli apakah ini mimpi atau kenyataan</i>
+
+337
+00:23:36,998 --> 00:23:41,294
+{\an8}<i>Aku yakin bisa melampaui</i>
+
+338
+00:23:41,753 --> 00:23:44,256
+{\an8}<i>Tak apa-apa jika terjatuh</i>
+
+339
+00:23:44,339 --> 00:23:46,174
+{\an8}<i>Menangislah</i>
+
+340
+00:23:46,258 --> 00:23:48,552
+{\an8}<i>Suatu hari semuanya</i>
+
+341
+00:23:48,677 --> 00:23:51,096
+{\an8}<i>Akan mekar menjadi bunga</i>
+
+342
+00:23:53,014 --> 00:23:54,141 
+EPISODE BERIKUTNYA
+
+343
+00:23:54,266 --> 00:23:57,769 
+<i>Aku akan membahas cuplikan</i>
+<i>episode selanjutnya!</i>
+
+344
+00:23:58,145 --> 00:24:01,148 
+<i>Penjahat yang tertangkap kabur?</i>
+
+345
+00:24:01,273 --> 00:24:04,484 
+<i>Dia menyandera bocah</i>
+<i>dan berkeliaran di kota?</i>
+
+346
+00:24:04,568 --> 00:24:07,320 
+<i>Tapi, batas waktu untuk kekuatanku</i>
+<i>sudah hampir habis.</i>
+
+347
+00:24:07,946 --> 00:24:11,324 
+<i>Kau menyedihkan, All Might.</i>
+
+348
+00:24:11,533 --> 00:24:13,618 
+<i>Bukankah ada Pahlawan di luar sana?</i>
+
+349
+00:24:14,411 --> 00:24:16,663 
+<i>"Apa yang dibutuhkan</i>
+<i>untuk menjadi Pahlawan."</i>
+
+350
+00:24:16,746 --> 00:24:18,957 
+<i>Seorang profesional selalu pertaruhkan</i>
+<i>hidupnya.</i>
+
+351
+00:24:19,040 --> 00:24:20,625 
+<i>Ayo melampaui.</i>
+
+352
+00:24:20,750 --> 00:24:22,461 
+<i>Plus Ultra!</i>
+
+353
+00:24:22,586 --> 00:24:23,962 
+Terjemahan Subtitle oleh Taufick Karim
+
